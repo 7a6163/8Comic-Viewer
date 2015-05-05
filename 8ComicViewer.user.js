@@ -7,7 +7,7 @@
 // @match        http://new.comicvip.com/show/*
 // @include      http://new.comicvip.com/show/*
 // @grant        none
-// @downloadURL  https://github.com/knowlet/8Comic-Viewer/raw/master/8ComicViewer.user.js
+// @downloadURL  https://github.com/knowlet/8Comic-Viewer/raw/safari/8ComicViewer.user.js
 // ==/UserScript==
 (function() {
     var b = document.createElement("script");
